@@ -24,9 +24,9 @@
   <entry>
     <title>如何部署Hexo的技巧</title>
     <url>/2020/06/07/%E5%A6%82%E4%BD%95%E9%83%A8%E7%BD%B2Hexo%E7%9A%84%E6%8A%80%E5%B7%A7/</url>
-    <content><![CDATA[<h2 id="关于如何部署自己的Hexo博客"><a href="#关于如何部署自己的Hexo博客" class="headerlink" title="关于如何部署自己的Hexo博客"></a>关于如何部署自己的Hexo博客</h2><h3 id="第一步：重新生成一下自己的博客文件"><a href="#第一步：重新生成一下自己的博客文件" class="headerlink" title="第一步：重新生成一下自己的博客文件"></a>第一步：重新生成一下自己的博客文件</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<h3 id="第一步：重新生成一下自己的博客文件"><a href="#第一步：重新生成一下自己的博客文件" class="headerlink" title="第一步：重新生成一下自己的博客文件"></a>第一步：重新生成一下自己的博客文件</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 
-<p>生成J静态文件。</p>
+<p>生成静态文件。</p>
 <p>指令可以简写成。</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure>
 
